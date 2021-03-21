@@ -1,13 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Author: Mussie Okbe
+ * Date: March 21, 2021
+ * Description: The objective of this project is to write a program using a 
+ *              variable and mathematical operations. 
  */
 package circlesandsphers;
 
 /**
  *
- * @author mussi
+ * @author mussie
  */
 public class CirclesAndSpheres {
     
@@ -52,8 +53,6 @@ public class CirclesAndSpheres {
         //calculating the volume
         volume = 4.0/3.0* pi * radius * radius * radius;
         System.out.println("\tAnd the volume is " + volume + " cubec inches");
-        
                 
-    }
-    
-}
+    } //end of main 
+} //end of the class
